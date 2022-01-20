@@ -24,3 +24,9 @@ Batagelj, V. and Zaverˇsnik, M. (2002) Generalized cores, submitted.
 Batagelj, V., Mrvar, A. and Zaverˇsnik, M. (1999) Partitioning approach to visualization of large graphs, In Kratochv´ıl, J. (ed), Lecture notes in computer science, 1731, Springer, Berlin, 90–97. 
 
 Batagelj, V. and Mrvar, A. (2000) Some Analyses of Erd˝os Collaboration Graph, Social Networks, 22, 173–186.
+
+
+
+Feel free to try my code in your local environment using this snippet:
+
+`git clone https://github.com/echonormous/Discrete-math-final.git `
