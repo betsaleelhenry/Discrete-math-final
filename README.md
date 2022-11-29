@@ -1,7 +1,9 @@
 # Discrete-math-final
 In this repository I share my implementation of the maximum k-core of an undirected graph.
 see the resources part for further information about this repository.
+
 Feel free to try my code in your local environment using this snippet:
+
 `git clone https://github.com/nheyr08/maximum-k-core-of-an-undirected-graph.git `
 ## References:
  
