@@ -29,4 +29,4 @@ Batagelj, V. and Mrvar, A. (2000) Some Analyses of Erd˝os Collaboration Graph, 
 
 Feel free to try my code in your local environment using this snippet:
 
-`git clone https://github.com/neyr08/Discrete-math-final.git `
+`git clone https://github.com/neyr08/maximum-k-core-of-an-undirected-graph.git `
